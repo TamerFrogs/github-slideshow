@@ -1,0 +1,8 @@
+---
+layout: slide
+title: "Welcome to our 2nd slide!"
+---
+
+Use the left arrow to begin!
+
+
